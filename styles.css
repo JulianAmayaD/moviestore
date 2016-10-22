@@ -1,0 +1,106 @@
+body{
+  background: #150303;
+}
+#bar{
+  background: #150303;
+  border-right: double 2px #FF7400;
+  color: white;
+  display: inline-block;
+  font-family: "Arimo";
+  width: 24%;
+}
+#box_text{
+  background: #150303;
+  border: solid 1px white;
+  color: white;
+  font-family: "Arimo";
+  font-size: 19px;
+  height: 25px;
+  width: 42%;
+}
+.btn{
+  background: #150303;
+  border: solid 2px white;
+  border-radius: 5px;
+  font-family: 'Oswald';
+  font-size: 15px;
+  color: white;
+  text-decoration: none;
+}
+#header{
+  background: #150303;
+  border-bottom: solid 2px #FF7400;
+  color: #FF7400;
+  font-family: "Oswald";
+  padding: 6px;
+  text-align: center;
+}
+#img{
+  display: inline-block;
+}
+.info{
+  text-align: center;
+}
+#select{
+  background: #150303;
+  border: solid 2px white;
+  border-radius: 5px;
+  color: white;
+  font-family: "Arimo";
+  font-size: 19px;
+}
+#section{
+  background: #150303;
+  color: black;
+  display: inline-block;
+  font-family: "Arimo";
+  /*margin-left: 25px;*/
+  /*margin-right: 10px;*/
+  width: 100%;
+}
+#synopsis{
+  text-align: center;
+}
+.text_movie{
+  color: white;
+  display: inline-block;
+  font-family: "Arimo";
+  font-size: 12px;
+}
+#title_movie{
+  color: white;
+  font-family: "Oswald";
+  text-align: center;
+}
+
+#footer{
+  background: #150303;
+  border-top: solid 2px #FF7400;
+  color: #FF7400;
+  font-family: "Oswald";
+  padding: 2px;
+  text-align: center;
+}
+.img_movie{
+  height: 200px;
+  width: 300px;
+}
+.img_movieIn{
+  display: inline-block;
+  height: 300px;
+  width: 200px;
+}
+.movie{
+  display: inline-block;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.movie_info{
+  color: white;
+  display: inline-block;
+  width: 49%;
+}
+.nav{
+  background: #150303;
+  padding: 7px;
+}
