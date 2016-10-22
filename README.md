@@ -1,3 +1,3 @@
 #Movie Store 
 
-Actividad en clase, en JavaScript, para observar el trailer y datos de algunas péliculas. 
+Actividad en clase, para observar el trailer y datos de algunas péliculas. 
