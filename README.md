@@ -1,3 +1,3 @@
-#Movie Store 
+# Movie Store 
 
-Actividad en clase, para observar el trailer y datos de algunas péliculas. 
+My first web in HTML5 and CSS3. Good memories!
